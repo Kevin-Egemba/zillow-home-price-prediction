@@ -1,6 +1,3 @@
-# zillow-home-price-prediction
-
-
 # Zillow Home Price Prediction
 
 This repository contains an end-to-end data science project that explores, models, and evaluates real estate data to predict home prices using Zillow’s public dataset. This project is a deliverable for coursework in the Boston University M.S. in Data Science program and showcases best practices in exploratory data analysis, regression modeling, and reproducible research.
