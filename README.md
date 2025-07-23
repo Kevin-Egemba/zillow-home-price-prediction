@@ -23,12 +23,9 @@ Home price prediction is a crucial task in the real estate industry, helping buy
 - JupyterLab (for exploratory and iterative analysis)
 
 ## Repository Structure
-
-.
 ├── Milestone_01.ipynb # Initial EDA, feature engineering, baseline models
 ├── Milestone_02.ipynb # Regularized regression, tree models, diagnostics
-├── data/
-│ └── zillow cleaned.csv # Cleaned Zillow dataset used in modeling
+│── zillow cleaned.csv # Cleaned Zillow dataset used in modeling
 ├── README.md # Project documentation
 ├── requirements.txt # Environment dependencies
 └── download_zillow.py # Script to download data from BU-hosted URL
@@ -36,7 +33,6 @@ Home price prediction is a crucial task in the real estate industry, helping buy
 
 
 ## Dataset
-
 The dataset `zillow cleaned.csv` was sourced from BU’s CS505 course materials. It contains housing data including:
 - Living area (square feet)
 - Number of bedrooms and bathrooms
@@ -72,7 +68,6 @@ The dataset `zillow cleaned.csv` was sourced from BU’s CS505 course materials.
 2. Install dependencies
    
 1. **Clone this repository**  
-   ```bash
    git clone https://github.com/your-username/zillow-home-price-prediction.git
    cd zillow-home-price-prediction
 
